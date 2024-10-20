@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aircraft Physics Simulation with Joystick Control</title>
+
+    <!-- Styles for web page (fonts, etc..) -->
+    <link rel="stylesheet" href="./00_styles/styles.css">
+
+    <!-- Include external Babylon.js libraries via files (previously downloaded)-->
+    <script src="./99_external_libraries/babylon.js"></script>
+    <script src="./99_external_libraries/babylon_GUI.js"></script>
+    <script src="./99_external_libraries/babylonjs.loaders.min.js"></script>
+    <script src="./99_external_libraries/loaders/babylon.objFileLoader.js"></script>
+
+    <!-- Talk to Julia and exchange state and its updates -->
+    <script src="./10_transfer_state_to_server/transfer_state_to_server.js"></script>
+
+    <!-- GUI to show data of state and buttons -->
+    <script src="./20_GUI/gui.js"></script>
+
+    <!-- Rear joystic, gamepad and keys inputs -->
+    <script src="./30_joystick/joystick_gamepad.js"></script>
+
+    <!-- Creation of simplified aircraft model geometry and reading ecternal .OBJ model -->
+    <script src="./40_geometry/aircraft.js"></script>
+
+    <!-- Draw force and velocity vectors and plot trajectory -->
+    <script src="./50_draw_forces_and_velocities/draw_forces_and_velocities.js"></script>
+
+    <!-- MAIN STARTING POINT OF PROGRAM. Launch program and start rendering loop -->
+    <script src="./60_MAIN_render_engine/MAIN_render_loop.js"></script>
+
+    <!-- Create 3D scene (ground, aircraft model, objects) -->
+    <script src="./60_MAIN_render_engine/create_scene.js"></script>
+
+    <!-- Constants and initial conditions of flight state -->
+    <script src="./70_initializations/initializations.js"></script>
+
+</head>
+<body>
+
+    <input type="file" id="fileInput" accept=".obj"/>  // html button to load an .obj model for the aircraft
+
+    <canvas id="renderCanvas"></canvas>
+
+</body>
+</html>

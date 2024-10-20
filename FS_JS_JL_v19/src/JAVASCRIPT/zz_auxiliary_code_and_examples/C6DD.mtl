@@ -1,0 +1,155 @@
+newmtl Mat_HTP
+Ka 0. 0. 0.
+Kd 1. 1. 1.
+Ks 1. 1. 1.
+Kn 100
+d 0.5
+map_Kd HTP.png
+map_d HTP.png
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_fus1_0_a_0
+Ka 0. 0. 0.
+Kd 1. 1. 1.
+Ks 1. 1. 1.
+Kn 100
+d 0.5
+map_Kd FUS.png
+map_d FUS.png
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_APU
+Ka 0. 0. 0.
+Kd 1 0.6901961 1
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_LWR_Antenas
+Ka 0. 0. 0.
+Kd 0.5019608 0.5019608 0.7529412
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_SAT_ANTENA
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_FT1
+Ka 0. 0. 0.
+Kd 0.5490196 0.5490196 0.5490196
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_FT2
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_FT3
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_WING
+Ka 0. 0. 0.
+Kd 1. 1. 1.
+Ks 1. 1. 1.
+Kn 100
+d 0.5
+map_Kd WNG.png
+map_d WNG.png
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_BF
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_ZG_NLG
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_UHBPR
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_PYLON
+Ka 0. 0. 0.
+Kd 0.4156863 0.4117647 0.4117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_Structure
+Ka 0. 0. 0.
+Kd 0.588235294117647 1 0.588235294117647
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_LD8_1
+Ka 0. 0. 0.
+Kd 1 1 0.5019608
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_ld3
+Ka 0. 0. 0.
+Kd 1 0.5019608 0
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_LD8_2
+Ka 0. 0. 0.
+Kd 1 1 0.5019608
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_LD8_3
+Ka 0. 0. 0.
+Kd 1 1 0.5019608
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_LD8_4
+Ka 0. 0. 0.
+Kd 1 1 0.5019608
+Ks 1. 1. 1.
+Kn 100
+newmtl Mat_131863560
+Ka 1. 1. 1.
+Kd -0.2196078 -0.2156863 -0.2156863
+Ks 1. 1. 1.
+Kn 100
+d 1
